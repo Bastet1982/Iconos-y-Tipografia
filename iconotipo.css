@@ -1,10 +1,4 @@
-.caja-invisible{
-   height: 250px;
-   width:  1000px;
-   position: absolute;
-   left: 200px;
-   top:100px;  
-}
+
 .icono1{
 
 	border:1px solid black;
@@ -107,4 +101,25 @@ p{
 	color:#800080;
 	padding-top: 15px;
 }
-.
+
+.fa.fa-paper-plane-o:hover{
+	color: #FFF8DC;
+	padding-top: 15px;
+}
+
+.fa.fa-diamond:hover{
+	color:#D2691E;
+	padding-top: 15px;
+}
+.fa.fa-heartbeat:hover{
+	color:#C0C0C0;
+	padding-top: 15px;
+}
+.fa.fa-coffee:hover{
+	color:#FF6347;
+	padding-top: 15px;
+}
+.fa.fa-paw:hover{
+	color: #9ACD32;
+	padding-top: 15px;
+}
